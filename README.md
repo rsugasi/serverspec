@@ -1,6 +1,6 @@
 # scripts
 You must have heard this mindfulness experiment done in harvard univeristy in US.
-They measure this sleep pattern as well as this meditation pattern by measuring 
+They measured this sleep pattern as well as this meditation pattern by measuring 
 this EEG graph.
 This mind activity, mental activity reflects..is reflected in various wave patterns
 like when I am awake my mind activity is measured in certain waves...Alpha waves, Beta 
